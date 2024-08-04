@@ -26,6 +26,9 @@ The following bindings are currently available in this repository:
 * Lightweight, low-level wrapper built on top of the `wgpu-native` library from Firefox
 * Facilitates swift development of an adapter for Evergine, allowing for rapid testing across Windows, Linux, and Mac platforms using DirectX, Vulkan, and Metal
 
+![CD RenderDoc](https://github.com/EvergineTeam/WebGPU.NET/actions/workflows/cd.yml/badge.svg)
+[![Nuget](https://img.shields.io/nuget/v/Evergine.Bindings.WebGPU?logo=nuget)](https://www.nuget.org/packages/Evergine.Bindings.WebGPU)
+
 ### [OpenGL.NET](https://github.com/opentk/OpenGL.NET)
 * Binding for the OpenGL API
 * Auto-generated from gl.xml file included in the KhronosRegistry folder
