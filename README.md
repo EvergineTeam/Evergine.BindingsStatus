@@ -41,7 +41,8 @@ The following bindings are currently available in this repository:
 * Binding for OpenGL (ES1-3.0, ES2.0, GL 1.x-4.6) and OpenGL ES
 * Auto-generated from [renderdoc_api_header](https://github.com/baldurk/renderdoc/blob/v1.x/renderdoc/api/app/renderdoc_app.h "RenderDoc API Header")
 
-[![CD RenderDoc](https://github.com/EvergineTeam/RenderDoc.NET/actions/workflows/CD.yml/badge.svg)](https://github.com/EvergineTeam/RenderDoc.NET/actions/workflows/CD.yml)
+[![CI](https://github.com/EvergineTeam/RenderDoc.NET/actions/workflows/CI.yml/badge.svg)](https://github.com/EvergineTeam/RenderDoc.NET/actions/workflows/CI.yml)
+[![CD](https://github.com/EvergineTeam/RenderDoc.NET/actions/workflows/CD.yml/badge.svg)](https://github.com/EvergineTeam/RenderDoc.NET/actions/workflows/CD.yml)
 [![Nuget](https://img.shields.io/nuget/v/Evergine.Bindings.RenderDoc?logo=nuget)](https://www.nuget.org/packages/Evergine.Bindings.RenderDoc)
 
 ### [ImGui.Net](https://github.com/EvergineTeam/ImGui.Net)
