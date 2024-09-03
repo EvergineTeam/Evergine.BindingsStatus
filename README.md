@@ -11,21 +11,22 @@ The following bindings are currently available in this repository:
 * Auto-generated from vk.xml file included in the KhronosRegistry folder
 
 [![CI](https://github.com/EvergineTeam/Vulkan.NET/actions/workflows/CI.yml/badge.svg)](https://github.com/EvergineTeam/Vulkan.NET/actions/workflows/CI.yml)
-[![Nuget](https://img.shields.io/nuget/v/Evergine.Bindings.Vulkan?logo=nuget)](https://www.nuget.org/packages/Evergine.Bindings.Vulkan)
 [![Monthly update check](https://github.com/EvergineTeam/Vulkan.NET/actions/workflows/monthly_update.yml/badge.svg)](https://github.com/EvergineTeam/Vulkan.NET/actions/workflows/monthly_update.yml)
+[![Nuget](https://img.shields.io/nuget/v/Evergine.Bindings.Vulkan?logo=nuget)](https://www.nuget.org/packages/Evergine.Bindings.Vulkan)
 
 ### [OpenXR.NET](https://github.com/EvergineTeam/OpenXR.NET)
 * Binding for the OpenXR API
 * Auto-generated from xr.xml file included in the KhronosRegistry folder
 
 [![Build Status](https://waveengineteam.visualstudio.com/Evergine/_apis/build/status/Bindings/OpenXR.NET%20CI?branchName=main)](https://waveengineteam.visualstudio.com/Evergine/_build/latest?definitionId=121&branchName=main)
-[![Nuget](https://img.shields.io/nuget/v/Evergine.Bindings.OpenXR?logo=nuget)](https://www.nuget.org/packages/Evergine.Bindings.OpenXR)
 [![Monthly update check](https://github.com/EvergineTeam/OpenXR.NET/actions/workflows/monthly_update.yml/badge.svg)](https://github.com/EvergineTeam/OpenXR.NET/actions/workflows/monthly_update.yml)
+[![Nuget](https://img.shields.io/nuget/v/Evergine.Bindings.OpenXR?logo=nuget)](https://www.nuget.org/packages/Evergine.Bindings.OpenXR)
 
 ### [WebGPU.NET](https://github.com/EvergineTeam/WebGPU.NET)
 * Lightweight, low-level wrapper built on top of the `wgpu-native` library from Firefox
 * Facilitates swift development of an adapter for Evergine, allowing for rapid testing across Windows, Linux, and Mac platforms using DirectX, Vulkan, and Metal
 
+[![CI](https://github.com/EvergineTeam/WebGPU.NET/actions/workflows/CI.yml/badge.svg)](https://github.com/EvergineTeam/WebGPU.NET/actions/workflows/CI.yml)
 [![CD WebGPU](https://github.com/EvergineTeam/WebGPU.NET/actions/workflows/cd.yml/badge.svg)](https://github.com/EvergineTeam/WebGPU.NET/actions/workflows/cd.yml)
 [![Nuget](https://img.shields.io/nuget/v/Evergine.Bindings.WebGPU?logo=nuget)](https://www.nuget.org/packages/Evergine.Bindings.WebGPU)
 
