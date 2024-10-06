@@ -51,9 +51,7 @@ The following bindings are currently available in this repository:
 * Includes c# bindings of the most popular imgui libraries as well, Imguizmo, Implot and Imnodes
 
 [![CI Imgui](https://github.com/EvergineTeam/ImGui.Net/actions/workflows/ci-imgui.yml/badge.svg)](https://github.com/EvergineTeam/ImGui.Net/actions/workflows/ci-imgui.yml)
-[![CI Extensions](https://github.com/EvergineTeam/ImGui.Net/actions/workflows/ci-extensions.yml/badge.svg)](https://github.com/EvergineTeam/ImGui.Net/actions/workflows/ci-extensions.yml)
 [![CD Imgui](https://github.com/EvergineTeam/ImGui.Net/actions/workflows/cd-imgui.yml/badge.svg)](https://github.com/EvergineTeam/ImGui.Net/actions/workflows/cd-imgui.yml)
-[![CD Extensions](https://github.com/EvergineTeam/ImGui.Net/actions/workflows/cd-extensions.yml/badge.svg)](https://github.com/EvergineTeam/ImGui.Net/actions/workflows/cd-extensions.yml)
 
 | Project | Nuget |
 | :-- | :-- |
