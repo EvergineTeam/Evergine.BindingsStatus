@@ -71,8 +71,5 @@ The following bindings are currently available in this repository:
 | Project | Nuget |
 | :-- | :-- |
 | Imgui  | [![Nuget](https://img.shields.io/nuget/v/Evergine.Bindings.Imgui?logo=nuget)](https://www.nuget.org/packages/Evergine.Bindings.Imgui) |
-| Imguizmo | [![Nuget](https://img.shields.io/nuget/v/Evergine.Bindings.Imguizmo?logo=nuget)](https://www.nuget.org/packages/Evergine.Bindings.Imguizmo) |
-| Implot | [![Nuget](https://img.shields.io/nuget/v/Evergine.Bindings.Implot?logo=nuget)](https://www.nuget.org/packages/Evergine.Bindings.Implot) |
-| Imnodes | [![Nuget](https://img.shields.io/nuget/v/Evergine.Bindings.Imnodes?logo=nuget)](https://www.nuget.org/packages/Evergine.Bindings.Imnodes) |
 
 This README serves as a centralized hub for all the bindings available in this repository. You can find more information about each binding by clicking on the links above.
